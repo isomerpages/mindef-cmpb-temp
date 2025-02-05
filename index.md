@@ -23,9 +23,9 @@ sections:
           description: List of tenants and amenities
           url: /directory/
   - announcements:
-      title: Announcements
+      title: Changelog & Notices
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Latest updates
       announcement_items:
         - title: Welcome to the CMPB at Cashew Isomer staging website
           date: 05 February 2025
