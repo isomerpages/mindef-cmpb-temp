@@ -10,7 +10,7 @@ notification: For information on NS enlistment, please go to
 sections:
   - hero:
       title: CMPB at Cashew
-      subtitle: Hillview Link
+      subtitle: Central Manpower Base, 91 Hillview Link, Singapore 669723
       background: /images/hero-banner.png
       button: Locate Us
       url: /location/
