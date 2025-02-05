@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png">
-</div>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
