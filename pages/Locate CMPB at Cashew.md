@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png"></a>
+<p>Looking for CMPB at Depot Road camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
