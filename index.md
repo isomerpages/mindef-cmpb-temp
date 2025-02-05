@@ -10,15 +10,14 @@ notification: For information on NS enlistment, please go to
 sections:
   - hero:
       title: CMPB at Cashew
-      subtitle: Everything you need to know about getting to CMPB at the vicinity of
-        Cashew MRT.
+      subtitle: Hillview Link
       background: /images/hero-banner.png
-      button: Location map
-      url: /location-map/
+      button: Locate Us
+      url: /location/
       key_highlights:
         - title: Getting to CMPB at Cashew
           description: Public transport and parking
-          url: /getting-to-cmpb
+          url: /location
         - title: Directory
           description: List of tenants and amenities
           url: /directory/
