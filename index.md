@@ -11,7 +11,7 @@ sections:
   - hero:
       title: CMPB at Cashew
       subtitle: Central Manpower Base, 91 Hillview Link, Singapore 669723
-      background: /images/hero-banner.png
+      background: /images/CMPB_wide_photo.jpg
       button: Locate Us
       url: /location/
       key_highlights:
