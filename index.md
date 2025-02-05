@@ -4,8 +4,8 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to CMPB at Cashew! | For information on NS enlistment or
-  CMPB at Depot Road camp, please visit https://www.cmpb.gov.sg/.
+notification: 📢 Welcome to CMPB at Cashew! | For information on NS enlistment
+  or CMPB at Depot Road camp, please visit https://www.cmpb.gov.sg/.
 sections:
   - hero:
       title: CMPB at Cashew
