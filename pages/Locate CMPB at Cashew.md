@@ -9,7 +9,7 @@ image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>MRT</summary>
+<summary>MRT Train</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>CMPB is located approximately a 7-minutes walk from DT2 Cashew MRT station.</p>
 <p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
@@ -17,7 +17,7 @@ image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bus</summary>
+<summary>Public Bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The nearest bus interchange is Bukit Panjang Bus Interchange.</p>
 <p>The nearest bus stops are: 43091, 43099, 43109, 43111.</p>
@@ -25,7 +25,7 @@ image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 </div>
 </details>
 <details class="isomer-details">
-<summary>Driving / Taxi</summary>
+<summary>Drive / Taxi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>CMPB at Cashew is located at 91 Hillview Link, Singapore 669723.</p>
 <p>Access Hillview Link via Hillview Avenue.</p>
