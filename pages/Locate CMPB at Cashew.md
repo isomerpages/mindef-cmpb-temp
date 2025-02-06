@@ -5,15 +5,14 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 ---
-<p><strong>Looking for CMPB at Depot Road camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</strong>
-</p>
+<h4>Central Manpower Base (CMPB) at Cashew<br>91 Hillview Link, Singapore 669723.</h4>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>By MRT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CMPB is located approximately a 7-minutes walk from DT2 Cashew MRT station.</p>
+<p>CMPB is located approximately a 7-minute walk from DT2 Cashew MRT station.</p>
 <p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
 1.</p>
 </div>
@@ -29,11 +28,12 @@ image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 <details class="isomer-details">
 <summary>By car</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CMPB at Cashew is located at 91 Hillview Link, Singapore 669723.</p>
 <p>Access Hillview Link via Hillview Avenue.</p>
-<p>Carpark charges applies.</p>
+<p>Carpark charges apply.</p>
 </div>
 </details>
 </div>
 <p></p>
+<p><strong>Looking for CMPB at Depot Road camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</strong>
+</p>
 <p></p>
