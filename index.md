@@ -8,17 +8,17 @@ notification: 📢 Welcome to CMPB at Cashew! | For information on NS enlistment
   or CMPB at Depot Road camp, please visit https://www.cmpb.gov.sg/.
 sections:
   - hero:
-      title: CMPB at Cashew
-      subtitle: Central Manpower Base, 91 Hillview Link, Singapore 669723
+      title: Welcome to CMPB@Cashew
+      subtitle: 91 Hillview Link, Singapore 669723
       background: /images/CMPB_wide_photo.jpg
-      button: Locate Us
+      button: Getting here
       url: /location/
       key_highlights:
-        - title: Getting to CMPB at Cashew
-          description: Public transport and parking
+        - title: Location
+          description: Getting to CMPB@Cashew
           url: /location
         - title: Directory
-          description: List of tenants and amenities
+          description: List of services and amenities
           url: /directory/
   - announcements:
       title: Changelog & Notices
