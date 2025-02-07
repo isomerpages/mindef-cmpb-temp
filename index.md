@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CMPB building at Cashew, 91 Hillview Link
+title: CMPB Building at Cashew, 91 Hillview Link
 description: Location information and directory of services and amenities at
   CMPB Building at Cashew.
 image: /images/isomer-logo.svg
