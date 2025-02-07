@@ -2,8 +2,8 @@ title: Title
 url: https://location.cmpb.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#4a90e2"
-  secondary-color: "#4a90e2"
+  primary-color: "#1f3567"
+  secondary-color: "#ffd409"
   media-colors:
     - title: media-color-one
       color: "#4a90e2"
