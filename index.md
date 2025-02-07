@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: CMPB building at Cashew, 91 Hillview Link
+description: Location information and directory of services and amenities at
+  CMPB Building at Cashew.
 image: /images/isomer-logo.svg
 permalink: /
 notification: 📢 Welcome to CMPB Building! | For information on NS enlistment or
