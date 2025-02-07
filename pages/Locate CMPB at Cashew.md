@@ -5,35 +5,56 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_5_Feb_2025_.png
 ---
-<h4>Central Manpower Base (CMPB) at Cashew<br>91 Hillview Link, Singapore 669723.</h4>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_5_Feb_2025_.png"></a>
-<p></p>
+<p><strong>Address<br></strong>91 Hillview Link, Singapore 669723
+<br><a href="https://www.onemap.gov.sg/?lat=1.36762825300103&amp;lng=103.764025830065" rel="noopener nofollow" target="_blank">Get directions here (OneMap)</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_7_Feb_2025_.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>By MRT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p>CMPB is located approximately a 7-minute walk from DT2 Cashew MRT station.</p>
+</li>
+<li>
 <p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
 1.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>By bus</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p>The nearest bus interchange is Bukit Panjang Bus Interchange.</p>
+</li>
+<li>
 <p>The nearest bus stops are: 43091, 43099, 43109, 43111.</p>
+</li>
+<li>
 <p>Buses servicing these stops: 67, 170, 176, 177, 178, 961, 961M, 963, 970.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>By car</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
 <p>Access Hillview Link via Hillview Avenue.</p>
+</li>
+<li>
 <p>Carpark charges apply.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
-<p></p>
 <p><strong>Looking for CMPB at Depot Road camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</strong>
 </p>
-<p></p>
