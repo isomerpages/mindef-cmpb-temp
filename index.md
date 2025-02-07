@@ -21,4 +21,14 @@ sections:
         - title: Directory
           description: List of services and amenities
           url: /directory/
+  - infobar:
+      title: Public-facing area
+      subtitle: Operating Hours
+      id: infobar
+      description: "Mon to Fri: 0730hrs  - 1900hrs | Sat: 0730hrs - 1300hrs"
+  - infobar:
+      title: Open Area (Outdoors)
+      subtitle: Operating Hours
+      id: infobar
+      description: "Daily: 0730hrs - 2300hrs"
 ---
