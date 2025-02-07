@@ -1,9 +1,9 @@
-title: Title
+title: CMPB building at Cashew, 91 Hillview Link
 url: https://location.cmpb.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#1f3567"
-  secondary-color: "#ffd409"
+  secondary-color: "#1f3567"
   media-colors:
     - title: media-color-one
       color: "#4a90e2"
@@ -15,7 +15,8 @@ colors:
       color: "#4a90e2"
     - title: media-color-five
       color: "#4a90e2"
-description: An Isomer site of the Singapore Government
+description: Location information and directory of services and amenities at
+  CMPB Building at Cashew.
 permalink: none
 baseurl: ""
 exclude:
