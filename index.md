@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Locate Us
           description: Getting to CMPB Building
-          url: /location
+          url: /locate-us/
         - title: Directory
           description: List of services and amenities
           url: /directory/
