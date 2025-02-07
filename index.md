@@ -21,20 +21,4 @@ sections:
         - title: Directory
           description: List of services and amenities
           url: /directory/
-  - announcements:
-      title: Changelog & Notices
-      id: announcements
-      subtitle: Latest updates
-      announcement_items:
-        - title: Welcome to the CMPB at Cashew Isomer staging website
-          date: 05 February 2025
-          announcement: This staging website will be gradually populated with information.
-            Stay tuned! :)
-          link_text: ""
-          link_url: ""
-        - title: Isomer website provisioned and access granted
-          date: 03 February 2025
-          announcement: Thank you, OGP!
-          link_text: ""
-          link_url: ""
 ---
