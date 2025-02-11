@@ -11,7 +11,7 @@ sections:
   - hero:
       title: CMPB Building
       subtitle: 91 Hillview Link, Singapore 669723
-      background: /images/CMPB_wide_photo.jpg
+      background: /images/ns_hub.jpg
       button: View location on onemap
       url: https://www.onemap.gov.sg/?lat=1.36762825300103&lng=103.764025830065
       key_highlights:
