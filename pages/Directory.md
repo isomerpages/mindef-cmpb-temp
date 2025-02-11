@@ -287,7 +287,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 1, #05-209/210</p>
+<p>Block 2, #05-209/210</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MINDEF Travel Desk (MTD)</p>
