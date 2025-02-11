@@ -295,7 +295,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 02, #06-231</p>
+<p>Block 2, #06-231</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Auditorium, Upper deck</p>
@@ -303,7 +303,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 02, #06-207</p>
+<p>Block 2, #06-207</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAF Counselling Centre (SCC)</p>
@@ -311,7 +311,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 02, #06-205</p>
+<p>Block 2, #06-205</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Career Transition Resource Centre (CTRC)</p>
