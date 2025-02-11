@@ -7,7 +7,10 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
 <p><strong>Address<br></strong>91 Hillview Link, Singapore 669723
 <br><a href="https://www.onemap.gov.sg/?lat=1.36762825300103&amp;lng=103.764025830065" rel="noopener nofollow" target="_blank">Get directions here (OneMap)</a>
-</p><a class="isomer-image-wrapper" href="https://go.gov.sg/cmpb-location-map"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_7_Feb_2025_.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_11_Feb_2025_.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>By MRT</summary>
