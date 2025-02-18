@@ -57,5 +57,5 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 </div>
 </details>
 </div>
-<p><strong>Looking for CMPB at Depot Road camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</strong>
+<p><strong>Looking for CMPB at Depot Road Camp? <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener nofollow" target="_blank">Click here</a>.</strong>
 </p>
