@@ -5,18 +5,18 @@ description: Location information and directory of services and amenities at
   CMPB at 91 Hillview Link.
 image: /images/isomer-logo.svg
 permalink: /
-notification: 📢 Welcome to CMPB Building! | For information on NS enlistment or
-  CMPB at Depot Road camp, please visit https://www.cmpb.gov.sg/.
+notification: 📢 Welcome to CMPB at 91 Hillview Link! | For information on NS
+  enlistment or CMPB at Depot Road Camp, please visit https://www.cmpb.gov.sg/.
 sections:
   - hero:
-      title: CMPB Building
+      title: CMPB
       subtitle: 91 Hillview Link, Singapore 669723
       background: /images/ns_hub.jpg
       button: View location on onemap
       url: https://www.onemap.gov.sg/?lat=1.36762825300103&lng=103.764025830065
       key_highlights:
         - title: Locate Us
-          description: Getting to CMPB Building
+          description: Getting to CMPB
           url: /locate-us/
         - title: Directory
           description: List of services and amenities
