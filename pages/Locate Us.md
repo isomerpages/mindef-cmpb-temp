@@ -24,7 +24,6 @@ via the pedestrian overhead bridge.</p>
 <li>
 <p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
 1.</p>
-<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
