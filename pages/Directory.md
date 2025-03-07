@@ -178,7 +178,7 @@ description: ""
 <p>Block 2, #03-256</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Army Recruitmen Centre (ARC)</p>
+<p>Army Recruitment Centre (ARC)</p>
 </td>
 </tr>
 <tr>
