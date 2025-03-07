@@ -27,8 +27,6 @@ via the pedestrian overhead bridge.</p>
 <p></p>
 </li>
 </ul>
-<p><a href="/files/CashewMRT_LocalityMap___7_February_2025.pdf" rel="noopener nofollow" target="_blank">DT2 Cashew MRT Locality Map</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cashew_MRT_Locality_Map__CMPB_.png">
 </div>
