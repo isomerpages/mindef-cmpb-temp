@@ -18,13 +18,20 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>CMPB is located approximately a 7-minute walk from DT2 Cashew MRT station.</p>
+<p>CMPB, opposite of Cashew MRT is located approximately a 7-minute walk
+via the pedestrian overhead bridge.</p>
 </li>
 <li>
 <p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
 1.</p>
+<p></p>
 </li>
 </ul>
+<p><a href="/files/CashewMRT_LocalityMap___7_February_2025.pdf" rel="noopener nofollow" target="_blank">DT2 Cashew MRT Locality Map</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cashew_MRT_Locality_Map__CMPB_.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
