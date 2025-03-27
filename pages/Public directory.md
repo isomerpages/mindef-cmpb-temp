@@ -1,0 +1,114 @@
+---
+title: Public directory
+permalink: /public-directory/
+variant: tiptap
+description: ""
+---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Listing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Block &amp; Unit Number</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Operating hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lifestylemart <strong>[Opening Sep 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #01-109</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1100 to 2100hrs (Daily), Closed on Tue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Childcare Centre (Sunflower Preschool @ MINDEF – Gombak) <strong>[Opening Aug 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #01-110</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0700 to 1900hrs (Mon to Fri)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Food Court (Timbre+ Hillview) <strong>[Opening May 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #02-102</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0700 to 2300hrs (Daily)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Convenience Store <strong>[Coming Soon]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #02-104</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Café (SAFRA@CMPB) <strong>[Opening Jul 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #02-106</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0800 to 2230hrs (Daily)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football field <strong>[Opening Jun 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0800 to 1900hrs (Daily)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outdoor fitness zone <strong>[Opening Jun 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0700 to 2230hrs (Daily)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

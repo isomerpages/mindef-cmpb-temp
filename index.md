@@ -16,10 +16,13 @@ sections:
       button: View location on onemap
       url: https://www.onemap.gov.sg/?lat=1.36762825300103&lng=103.764025830065
       key_highlights:
-        - title: Locate Us
+        - title: Locate us
           description: Getting to CMPB
           url: /locate-us/
         - title: Directory
           description: List of services and amenities
           url: /directory/
+        - title: Public directory
+          description: Amenities open to public
+          url: /public-directory
 ---

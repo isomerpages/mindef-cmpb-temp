@@ -1,6 +1,8 @@
 logo: /images/MINDEF_logo.png
 links:
-  - title: Directory
-    url: /directory/
   - title: Location
     url: /locate-us/
+  - title: List of services and amenities
+    url: /directory
+  - title: Amenities open to public
+    url: /public-directory
