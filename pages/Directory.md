@@ -76,16 +76,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Barber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-105</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CMPB Regional Health Hub</strong>
-</p>
+<p>CMPB Regional Health Hub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 2, #01-201</p>
@@ -141,8 +132,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Medical Classification Centre (MCC)</strong>
-</p>
+<p>Medical Classification Centre (MCC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 2, #02-201</p>
@@ -166,8 +156,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MINDEF Career Hub</strong>
-</p>
+<p>MINDEF Career Hub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 2, #03-256</p>
