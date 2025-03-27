@@ -28,50 +28,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lifestylemart</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #01-109</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Childcare Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #01-110</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food Court</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-102</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>M-Works</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-103</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Convenience Store</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-104</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Café</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-106</p>
 </td>
 </tr>
 <tr>
