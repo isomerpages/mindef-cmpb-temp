@@ -22,4 +22,17 @@ sections:
         - title: Directory
           description: List of services and amenities
           url: /directory/
+  - textcards:
+      title: Services and amenities at CMPB
+      subtitle: Directory
+      id: textcards
+      cards:
+        - title: Open to public
+          description: ""
+          linktext: See all amenities open to public
+          url: /public-directory
+        - title: By appointment
+          description: ""
+          linktext: See all services and amenities
+          url: /directory
 ---
