@@ -34,7 +34,7 @@ description: ""
 <p>Block 1, #01-109</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1100 to 2100hrs (Daily), Closed on Tue</p>
+<p>11am to 9pm (Daily), Closed on Tue</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p>Block 1, #01-110</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0700 to 1900hrs (Mon to Fri)</p>
+<p>7am to 7pm (Mon to Fri)</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ description: ""
 <p>Block 1, #02-102</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0700 to 2300hrs (Daily)</p>
+<p>7am to 10.30pm (Daily)</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ description: ""
 <p>Block 1, #02-106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0800 to 2230hrs (Daily)</p>
+<p>8am to 10.30pm (Daily)</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ description: ""
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0800 to 1900hrs (Daily)</p>
+<p>8am to 6pm (Daily)</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ description: ""
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0700 to 2230hrs (Daily)</p>
+<p>7am to 10.30pm (Daily)</p>
 </td>
 </tr>
 </tbody>
