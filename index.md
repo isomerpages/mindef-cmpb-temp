@@ -28,7 +28,7 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: updates on cmpb
       announcement_items:
         - title: Alternative pedestrian access to CMPB
           date: 27 March 2025
