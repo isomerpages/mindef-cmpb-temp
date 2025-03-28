@@ -25,4 +25,18 @@ sections:
         - title: Public directory
           description: Amenities open to public
           url: /public-directory
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Alternative pedestrian access to CMPB
+          date: 27 March 2025
+          announcement: Visiting Timbre+ Hillview and outdoor amenities at CMPB from May
+            to Jul 2025? Please note the pedestrian overhead bridge linking CMPB
+            with Cashew MRT and the Rail Corridor linkway will open in Jul 2025.
+            Pedestrians may walk into CMPB by Hillview Link (via Hillview
+            Avenue).
+          link_text: ""
+          link_url: ""
 ---
