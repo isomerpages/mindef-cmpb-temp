@@ -99,7 +99,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Outdoor fitness zone <strong>[Opening Jun 2025]</strong>
+<p>Fitness station <strong>[Opening Jun 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
