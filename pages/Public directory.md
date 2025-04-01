@@ -39,7 +39,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Childcare Centre (Sunflower Preschool @ MINDEF – Gombak) <strong>[Opening Aug 2025]</strong>
+<p>Childcare Centre (Sunflower Preschool) <strong>[Opening Aug 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
