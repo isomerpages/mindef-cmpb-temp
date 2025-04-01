@@ -8,7 +8,7 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <p><strong>Address<br></strong>91 Hillview Link, Singapore 669723
 <br><a href="https://www.onemap.gov.sg/?lat=1.36762825300103&amp;lng=103.764025830065" rel="noopener nofollow" target="_blank">Get directions here (OneMap)</a>
 </p>
-<h4><strong>The pedestrian overhead bridge linking CMPB with Cashew MRT, and the Rail Corridor linkway will open in July 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue).</strong></h4>
+<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in July 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue).</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_11_Feb_2025_.png">
@@ -21,11 +21,10 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <ul data-tight="true" class="tight">
 <li>
 <p>CMPB, opposite of Cashew MRT is located approximately a 7-minute walk
-via the pedestrian overhead bridge.</p>
+via the linkbridge.</p>
 </li>
 <li>
-<p>Take Exit A and use the pedestrian overhead bridge to enter CMPB via Block
-1.</p>
+<p>Take Exit A and use the linkbridge to enter CMPB via Block 1.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
