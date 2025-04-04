@@ -39,7 +39,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Childcare Centre (Sunflower Preschool) <strong>[Opening Aug 2025]</strong>
+<p>Childcare Centre (Sunflower Preschool @ Hillview) <strong>[Opening Aug 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +75,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Café (SAFRA@CMPB) <strong>[Opening Jul 2025]</strong>
+<p>Cafe (SAFRA@CMPB) <strong>[Opening Jul 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football field <strong>[Opening Jun 2025]</strong>
+<p>Football Field <strong>[Opening Jun 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +99,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fitness station <strong>[Opening Jun 2025]</strong>
+<p>Fitness Station <strong>[Opening Jun 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
