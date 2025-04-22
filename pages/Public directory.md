@@ -27,47 +27,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lifestylemart <strong>[Opening Sep 2025]</strong>
+<p>Barber <strong>[Coming Soon]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Block 1, #01-109</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11am to 9pm (Daily), Closed on Tue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Childcare Centre (Sunflower Preschool @ Hillview) <strong>[Opening Aug 2025]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #01-110</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7am to 7pm (Mon to Fri)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Food Court (Timbre+ Hillview) <strong>[Opening May 2025]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-102</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7am to 10.30pm (Daily)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Convenience Store <strong>[Coming Soon]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-104</p>
+<p>Block 1, #02-02</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -79,10 +43,58 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Block 1, #02-106</p>
+<p>Block 1, #02-03/04</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10.30pm (Daily)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Childcare Centre (Sunflower Preschool @ Hillview) <strong>[Opening Aug 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #01-01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7am to 7pm (Mon to Fri)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Convenience Store <strong>[Coming Soon]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #02-01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>eMart (Lifestylemart) <strong>[Opening Sep 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #01-02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11am to 9pm (Daily), Closed on Tue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Food Court (Timbre+ Hillview) <strong>[Opening May 2025]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 1, #02-05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7am to 10.30pm (Daily)</p>
 </td>
 </tr>
 <tr>
