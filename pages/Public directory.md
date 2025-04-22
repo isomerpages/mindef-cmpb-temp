@@ -27,18 +27,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Barber <strong>[Coming Soon]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 1, #02-02</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Cafe (SAFRA@CMPB) <strong>[Opening Jul 2025]</strong>
 </p>
 </td>
