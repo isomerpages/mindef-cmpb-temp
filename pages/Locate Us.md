@@ -10,7 +10,7 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue).</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_11_Feb_2025_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_28_Apr_2025_.png">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -19,8 +19,7 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>CMPB, opposite of Cashew MRT is located approximately a 7-minute walk
-via the linkbridge.</p>
+<p>CMPB is approximately a 7-minute walk from Cashew MRT via the linkbridge.</p>
 </li>
 <li>
 <p>Take Exit A and use the linkbridge to enter CMPB via Block 1.</p>
