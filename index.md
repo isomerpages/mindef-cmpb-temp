@@ -5,9 +5,10 @@ description: Location information and directory of services and amenities at
   CMPB at 91 Hillview Link.
 image: /images/isomer-logo.svg
 permalink: /
-notification: CMPB at 91 Hillview Link will progressively open in 2025. | For
-  information on NS enlistment or CMPB at Depot Road Camp, please visit
-  https://www.cmpb.gov.sg/.
+notification: CMPB at 91 Hillview Link will progressively open in 2025.   If you
+  currently have appointments at CMPB, please report to CMPB at Depot Road Camp.
+  For information on getting there, please visit
+  https://www.cmpb.gov.sg/about-us/contact-us.
 sections:
   - hero:
       title: CMPB
@@ -17,7 +18,7 @@ sections:
       url: https://www.onemap.gov.sg/?lat=1.36762825300103&lng=103.764025830065
       key_highlights:
         - title: Locate us
-          description: Getting to CMPB
+          description: Getting to CMPB when it opens
           url: /locate-us/
         - title: Directory
           description: List of services and amenities
@@ -25,6 +26,7 @@ sections:
         - title: Public directory
           description: Amenities open to public
           url: /public-directory
+      variant: center
   - announcements:
       title: Announcements
       id: announcements

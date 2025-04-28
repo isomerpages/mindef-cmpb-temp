@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<p><strong>Address<br></strong>91 Hillview Link, Singapore 669723
-<br><a href="https://www.onemap.gov.sg/?lat=1.36762825300103&amp;lng=103.764025830065" rel="noopener nofollow" target="_blank">Get directions here (OneMap)</a>
-</p>
+<h4><strong>If you currently have appointments at CMPB, please report to CMPB at Depot Road Camp. For information on getting there, please visit <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.cmpb.gov.sg/about-us/contact-us</a>.</strong></h4>
+<p></p>
 <h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue).</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
