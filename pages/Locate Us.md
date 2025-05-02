@@ -19,7 +19,8 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>CMPB is approximately a 7-minute walk from Cashew MRT via the linkbridge.</p>
+<p>CMPB is approximately a 7-minute walk from Cashew MRT via the linkbridge
+(from Aug 2025).</p>
 </li>
 <li>
 <p>Take Exit A and use the linkbridge to enter CMPB via Block 1.</p>
