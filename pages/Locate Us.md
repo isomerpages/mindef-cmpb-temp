@@ -57,7 +57,7 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <li>
 <p>Carpark charges apply.</p>
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="300" width="700" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.342089887265!2d103.76401801754264!3d1.3661701786876648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11ad78a6dd39%3A0xb293973729d78fc7!2s91%20Hillview%20Link%2C%20CMPB%20Block%201%2C%20Singapore%20669723!5e0!3m2!1sen!2ssg!4v1748846576940!5m2!1sen!2ssg"></iframe>
+<iframe style="border:0;" height="300" width="500" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.342089887265!2d103.76401801754264!3d1.3661701786876648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11ad78a6dd39%3A0xb293973729d78fc7!2s91%20Hillview%20Link%2C%20CMPB%20Block%201%2C%20Singapore%20669723!5e0!3m2!1sen!2ssg!4v1748846576940!5m2!1sen!2ssg"></iframe>
 </div>
 </li>
 </ul>
