@@ -5,10 +5,9 @@ description: Location information and directory of services and amenities at
   CMPB at 91 Hillview Link.
 image: /images/isomer-logo.svg
 permalink: /
-notification: CMPB at 91 Hillview Link will progressively open in 2025.   If you
-  currently have appointments at CMPB, please report to CMPB at Depot Road Camp.
-  For information on getting there, please visit
-  https://www.cmpb.gov.sg/about-us/contact-us.
+notification: "MCC is located at Level 2, Block 2, #02-201 at CMPB, 91 Hillview
+  Link S(669723). Please cater sufficient time to clear the security checkpoint
+  at Level 2, Block 2 before your appointment."
 sections:
   - hero:
       title: CMPB
@@ -18,7 +17,7 @@ sections:
       url: https://www.onemap.gov.sg/?lat=1.36762825300103&lng=103.764025830065
       key_highlights:
         - title: Locate us
-          description: Getting to CMPB when it opens
+          description: Getting to CMPB
           url: /locate-us/
         - title: Directory
           description: List of services and amenities
@@ -32,12 +31,11 @@ sections:
       id: announcements
       subtitle: updates on cmpb
       announcement_items:
-        - title: Alternative pedestrian access to CMPB
-          date: 27 March 2025
-          announcement: Visiting Timbre+ Hillview and outdoor amenities at CMPB from May
-            to July 2025? Please walk into CMPB by Hillview Link (via Hillview
-            Avenue). The linkbridge to Cashew MRT and link to Rail Corridor will
-            open in Aug 2025.
+        - title: Getting to CMPB from Cashew MRT
+          date: 20 June 2025
+          announcement: An interim shuttle bus service will run between Cashew MRT and the
+            new CMPB, until the linkbridge is ready in the second half of the
+            year.
           link_text: ""
           link_url: ""
 ---
