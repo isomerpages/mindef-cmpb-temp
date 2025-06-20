@@ -5,7 +5,9 @@ description: Location information and directory of services and amenities at
   CMPB at 91 Hillview Link.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "MCC is located at Level 2, Block 2, #02-201 at CMPB, 91 Hillview
+  Link S(669723). Please cater sufficient time to clear the security checkpoint
+  at Level 2, Block 2 before your appointment."
 sections:
   - hero:
       title: CMPB
