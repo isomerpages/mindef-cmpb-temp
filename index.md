@@ -38,12 +38,4 @@ sections:
             year.
           link_text: ""
           link_url: ""
-        - title: Alternative pedestrian access to CMPB
-          date: 27 March 2025
-          announcement: Visiting Timbre+ Hillview and outdoor amenities at CMPB from May
-            to July 2025? Please walk into CMPB by Hillview Link (via Hillview
-            Avenue). The linkbridge to Cashew MRT and link to Rail Corridor will
-            open in Aug 2025.
-          link_text: ""
-          link_url: ""
 ---
