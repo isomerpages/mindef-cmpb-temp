@@ -32,7 +32,7 @@ sections:
       subtitle: updates on cmpb
       announcement_items:
         - title: Getting to CMPB from Cashew MRT
-          date: 20 June 2025
+          date: 23 June 2025
           announcement: An interim shuttle bus service will run between Cashew MRT and the
             new CMPB, until the linkbridge is ready in the second half of the
             year.
