@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue). An interim shuttle bus service will also run between Cashew MRT and the new CMPB, until the linkbridge is ready.</strong></h4>
-<p></p>
+<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. An interim shuttle bus service will run between Cashew MRT and the new CMPB, until the linkbridge is ready.&nbsp;</strong>The bus service will operate from Monday to Friday, 7am to 7.30pm and on Saturday, from 7am to 2pm at 15-minute intervals. The journey will take approximately 10 minutes between the two stops, subject to traffic conditions.</h4>
+<h4>Pedestrians may also walk into CMPB by Hillview Link (via Hillview Avenue). </h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_16_May_2025__link.png">
 </div>
