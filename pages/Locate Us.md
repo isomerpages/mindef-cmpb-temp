@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<h4><strong>If you currently have appointments at CMPB, please report to CMPB at Depot Road Camp. For information on getting there, please visit <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.cmpb.gov.sg/about-us/contact-us</a>.</strong></h4>
-<p></p>
-<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. Pedestrians may walk into CMPB by Hillview Link (via Hillview Avenue).</strong></h4>
-<p></p>
+<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. An interim shuttle bus service will run between Cashew MRT and the new CMPB, until the linkbridge is ready.&nbsp;</strong>For more information, visit <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.cmpb.gov.sg/about-us/contact-us</a></h4>
+<h4>Pedestrians may also walk into CMPB by Hillview Link (via Hillview Avenue).</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_16_May_2025__link.png">
 </div>
