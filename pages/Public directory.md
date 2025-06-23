@@ -88,8 +88,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>7am to 3pm (Mon to Thu, and Sat)
-<br>7am to 10.30pm (Sat)</p>
-<p>Closed on Sun
+<br>7am to 10.30pm (Fri)
+<br>Closed on Sun
 <br>PH will follow the operating hours of that particular day</p>
 </td>
 </tr>
