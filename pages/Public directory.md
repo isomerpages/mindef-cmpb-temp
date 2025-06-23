@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cafe (SAFRA@CMPB) <strong>[Opening Jul 2025]</strong>
+<p>Cafe (SAFRA@CMPB) <strong>[Opening Aug 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Convenience Store <strong>[Coming Soon]</strong>
+<p>Convenience Store <strong>[Opening Sep 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,8 +75,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Food Court (Timbre+ Hillview) <strong>[Opening May 2025]</strong>
-</p>
+<p>Food Court (Timbre+ Hillview)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-05</p>
@@ -87,8 +86,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football Field <strong>[Opening Jun 2025]</strong>
-</p>
+<p>Football Field</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -99,8 +97,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fitness Station <strong>[Opening Jun 2025]</strong>
-</p>
+<p>Fitness Station</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
