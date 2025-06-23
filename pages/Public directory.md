@@ -27,7 +27,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cafe (SAFRA@CMPB) <strong>[Opening Aug 2025]</strong>
+<p>Cafe (SAFRA@CMPB)
+<br><strong>[Opening Aug 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +40,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Childcare Centre (Sunflower Preschool @ Hillview) <strong>[Opening Aug 2025]</strong>
+<p>Childcare Centre (Sunflower Preschool @ Hillview)
+<br><strong>[Opening Aug 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,19 +53,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Convenience Store <strong>[Opening Sep 2025]</strong>
+<p>Unmanned Convenience Store
+<br><strong>[Opening Sep 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>24 hours</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eMart (Lifestylemart) <strong>[Opening Sep 2025]</strong>
+<p>eMart (Lifestylemart)
+<br><strong>[Opening Sep 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,18 +79,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Food Court (Timbre+ Hillview)</p>
+<p>Food Court (Timbre+ Hillview)
+<br><strong>[Six food stalls open. Two more food stalls opening on 1 Jul 2025 and six more opening on 4 Aug 2025)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7am to 10.30pm (Daily)</p>
+<p>7am to 3pm (Mon to Thu, and Sat)
+<br>7am to 10.30pm (Sat)</p>
+<p>Closed on Sun
+<br>PH will follow the operating hours of that particular day</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football Field</p>
+<p>Football Field
+<br><strong>[Free-to-play on a first-come, first-served basis until Sep 2025. From Oct 2025, a booking system will be implemented]</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
