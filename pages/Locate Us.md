@@ -66,8 +66,8 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$1.20 per hour (0.02 cents per minute)</p>
-<p>Capped at $12 per day</p>
+<p>$1.20 per hour (0.02 cents per minute)
+<br>Capped at $12 per day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.65 per entry</p>
