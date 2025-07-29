@@ -41,7 +41,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Childcare Centre (Sunflower Preschool @ Hillview)
-<br><strong>[Opening Aug 2025]</strong>
+<br><strong>[Opening Oct 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,13 +61,13 @@ description: ""
 <p>Block 1, #02-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 hours</p>
+<p>24/7 (Daily)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>eMart (Lifestylemart)
-<br><strong>[Opening Sep 2025]</strong>
+<br><strong>[Opening Oct 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +80,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Food Court (Timbre+ Hillview)
-<br><strong>[Six food stalls open. Two more food stalls opening on 1 Jul 2025 and six more opening on 4 Aug 2025)</strong>
+<br><strong>[10 stalls open, with more coming soon]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
