@@ -35,7 +35,7 @@ description: ""
 <p>Block 1, #02-03/04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am to 10.30pm (Daily)</p>
+<p>7am to 10pm (Daily)</p>
 </td>
 </tr>
 <tr>
