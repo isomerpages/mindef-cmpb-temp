@@ -29,13 +29,14 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: updates on cmpb
+      subtitle: Updates on CMPB
       announcement_items:
-        - title: Getting to CMPB from Cashew MRT
-          date: 23 June 2025
-          announcement: An interim shuttle bus service will run between Cashew MRT and the
-            new CMPB, until the linkbridge is ready in the second half of the
-            year.
+        - title: Getting to CMPB from Cashew MRT station
+          date: 08 August 2025
+          announcement: From Cashew MRT station, take Exit A and use the linkbridge to
+            enter CMPB. It will take approximately 5 mins to walk from Cashew
+            MRT to the security checkpoint. Please cater sufficient time before
+            your appointment.
           link_text: ""
           link_url: ""
 ---
