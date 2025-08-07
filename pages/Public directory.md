@@ -87,10 +87,7 @@ description: ""
 <p>Block 1, #02-05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7am to 8pm (Mon to Thu, and Sat)
-<br>7am to 10pm (Fri)
-<br>Closed on Sun
-<br>PH will follow the operating hours of that particular day</p>
+<p>7am to 10pm (Daily)</p>
 </td>
 </tr>
 <tr>
