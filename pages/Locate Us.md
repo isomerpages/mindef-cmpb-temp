@@ -5,25 +5,15 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<h4><strong>The linkbridge to Cashew MRT, and link to Rail Corridor will open in Aug 2025. An interim shuttle bus service will run between Cashew MRT and the new CMPB, until the linkbridge is ready.&nbsp;</strong>For more information, visit <a href="https://www.cmpb.gov.sg/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.cmpb.gov.sg/about-us/contact-us</a></h4>
-<h4>Pedestrians may also walk into CMPB by Hillview Link (via Hillview Avenue).</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_16_May_2025__link.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_28_Apr_2025_.png">
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>By MRT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>CMPB is approximately a 7-minute walk from Cashew MRT via the linkbridge
-(from Aug 2025).</p>
-</li>
-<li>
-<p>Take Exit A and use the linkbridge to enter CMPB via Block 1.</p>
-</li>
-</ul>
+<p>From Cashew MRT station, take <strong>Exit A </strong>and cross the linkbridge
+for a quick <strong>5-minute</strong> walk to CMPB.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cashew_MRT_Locality_Map__CMPB_.png">
 </div>
