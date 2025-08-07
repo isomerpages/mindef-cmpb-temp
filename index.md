@@ -31,7 +31,7 @@ sections:
       announcement_items:
         - title: Getting to CMPB from Cashew MRT station
           date: 08 August 2025
-          announcement: From Cashew MRT Station, take Exit A and cross the linkbridge for
+          announcement: From Cashew MRT station, take Exit A and cross the linkbridge for
             a quick 5-minute walk to CMPB.
           link_text: ""
           link_url: ""
