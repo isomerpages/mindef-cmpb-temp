@@ -12,7 +12,7 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <details class="isomer-details">
 <summary>By MRT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>From Cashew MRT Station, take <strong>Exit A </strong>and cross the linkbridge
+<p>From Cashew MRT station, take <strong>Exit A </strong>and cross the linkbridge
 for a quick <strong>5-minute</strong> walk to CMPB.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cashew_MRT_Locality_Map__CMPB_.png">
