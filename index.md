@@ -5,8 +5,9 @@ description: Location information and directory of services and amenities at
   CMPB at 91 Hillview Link.
 image: /images/isomer-logo.svg
 permalink: /
-notification: The linkbridge connecting CMPB and Cashew MRT station will be open
-  on 11 Aug 2025.
+notification: The Linkbridge connecting CMPB and Cashew MRT Station is now
+  open!  Take Exit A from Cashew MRT station and cross the linkbridge for a
+  quick 5-minute walk to CMPB.
 sections:
   - hero:
       title: CMPB
@@ -25,15 +26,4 @@ sections:
           description: Amenities open to public
           url: /public-directory
       variant: center
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Updates on CMPB
-      announcement_items:
-        - title: Getting to CMPB from Cashew MRT station
-          date: 08 August 2025
-          announcement: From Cashew MRT station, take Exit A and cross the linkbridge for
-            a quick 5-minute walk to CMPB.
-          link_text: ""
-          link_url: ""
 ---
