@@ -212,26 +212,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MINDEF Shared Services (MSS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 2, #04-206/207</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Auditorium, Lower deck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 2, #05-231</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MINDEF Shared Services (MSS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Block 2, #05-211</p>
 </td>
 </tr>
 <tr>
