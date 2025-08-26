@@ -28,14 +28,14 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cafe (SAFRA@CMPB)
-<br><strong>[Opening Aug 2025]</strong>
+<br><strong>[Opening Sep 2025]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-03/04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7am to 10pm (Daily)</p>
+<p>8am to 10.30pm (Daily)</p>
 </td>
 </tr>
 <tr>
@@ -53,9 +53,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unmanned Convenience Store
-<br><strong>[Opening Sep 2025]</strong>
-</p>
+<p>Unmanned Convenience Store (Cheers)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-01</p>
@@ -79,9 +77,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Food Court (Timbre+ Hillview)
-<br><strong>[10 stalls open, with more coming soon]</strong>
-</p>
+<p>Food Court (Timbre+ Hillview)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-05</p>
