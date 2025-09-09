@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cafe (SAFRA@CMPB)</p>
+<p>SAFRA@CMPB – Cafe4You</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-03/04</p>
