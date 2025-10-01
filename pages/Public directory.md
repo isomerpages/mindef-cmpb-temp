@@ -62,9 +62,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>eMart (Lifestylemart)
-<br><strong>[Opening Sep 2025]</strong>
-</p>
+<p>eMart (Lifestylemart)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #01-02</p>
