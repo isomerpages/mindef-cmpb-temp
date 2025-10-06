@@ -36,4 +36,10 @@ sections:
             system will be released in Jan 2026.
           link_text: ""
           link_url: ""
+        - title: Parking charges to start from 15 Oct
+          date: 02 October 2025
+          announcement: Parking charges will apply at CMPB's carpark from 15 Oct 2025
+            onwards.
+          link_text: View parking rates
+          link_url: /locate-us
 ---
