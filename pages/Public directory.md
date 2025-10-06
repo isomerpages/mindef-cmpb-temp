@@ -85,7 +85,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football Field
-<br><strong>[Free-to-play on a first-come, first-served basis until Sep 2025. From Oct 2025, a booking system will be implemented]</strong>
+<br><strong>[Free-to-play period on a first-come,&nbsp;first-served basis has been extended to end-Dec 2025. More&nbsp;information on the booking system will be released in Jan 2026.]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
