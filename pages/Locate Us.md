@@ -56,8 +56,7 @@ for a quick 5-minute walk to CMPB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$1.20 per hour (0.02 cents per minute)
-<br>Capped at $12 per day</p>
+<p>$1.20 per hour (max $12 daily from 6am to 11pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.65 per entry</p>
