@@ -25,4 +25,15 @@ sections:
           description: Amenities open to public
           url: /public-directory
       variant: center
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Free-to-play period extended for CMPB's Football Field
+          date: 01 October 2025
+          announcement: The free-to-play period on a first-come, first-served basis has
+            been extended to end-Dec 2025. More information on the booking
+            system will be released in Jan 2026.
+          link_text: ""
+          link_url: ""
 ---
