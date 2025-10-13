@@ -8,38 +8,36 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_28_Apr_2025_.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>By MRT</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Take <strong>Exit A</strong> from Cashew MRT station and cross the linkbridge
-for a quick 5-minute walk to CMPB.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cashew_MRT_Locality_Map__CMPB_.png">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>By bus</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Bus stop ID: 43091 - Bef Cashew Stn
-<br>(Bus services: 67, 75, 170, 176, 178, 184, 961, 963, 970, 961M)</p>
-<p>Bus stop ID: 43159 - Bef Glendale Pk Condo
-<br>(Bus service: 177)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>By car</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="iframe-wrapper">
-<iframe style="border:0;" height="300" width="500" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.342089887265!2d103.76401801754264!3d1.3661701786876648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11ad78a6dd39%3A0xb293973729d78fc7!2s91%20Hillview%20Link%2C%20CMPB%20Block%201%2C%20Singapore%20669723!5e0!3m2!1sen!2ssg!4v1748846576940!5m2!1sen!2ssg"></iframe>
-</div>
+<h4>By MRT</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Take <strong>Exit A </strong>from Cashew MRT station and cross the linkbridge
+for a quick 5-minute walk to CMPB (elevator access available).</p>
+</li>
+</ul>
+<h4>By bus</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Take bus services <strong>67, 75, 170, 176, 178, 184, 961, 963, 970, 961M </strong>and
+alight at <strong>Bef Cashew Stn </strong>(bus stop ID: 43091).</p>
+</li>
+<li>
+<p>Take bus service <strong>177 </strong>and alight at <strong>Bef Glendale Pk Condo </strong>(bus
+stop ID: 43159).</p>
+</li>
+</ul>
+<h4>By car and motorcycle</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Access Hillview Link via Hillview Avenue.</p>
 </li>
 <li>
-<p>Parking charges apply.</p>
+<p>Handicap parking is available at L1 and B1.</p>
+</li>
+<li>
+<p>Motorcycle parking is available at the lower basement of B1.</p>
+<p></p>
+<p><u>Parking rates at CMPB</u> (From 15 Oct 2025 onwards)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,8 +64,7 @@ for a quick 5-minute walk to CMPB.</p>
 </table>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe style="border:0;" height="500" width="658" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d963.4123322079108!2d103.76412951200598!3d1.3669629109144752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11005a617fe1%3A0x9c5bb164f2a0869d!2sCmpb!5e1!3m2!1sen!2ssg!4v1759912014789!5m2!1sen!2ssg"></iframe>
 </div>
-</details>
-</div>
-<p></p>
 <p></p>
