@@ -24,6 +24,9 @@ sections:
         - title: Public directory
           description: Amenities open to public
           url: /public-directory
+        - title: Contact us
+          description: ""
+          url: https://www.ns.gov.sg/web/contact-us
       variant: center
   - announcements:
       title: Announcements
