@@ -26,7 +26,7 @@ sections:
           url: /public-directory
         - title: Contact us
           description: For enquiries and help
-          url: https://www.ns.gov.sg/web/contact-us
+          url: https://ask.gov.sg/mindef/questions/new
       variant: center
   - announcements:
       title: Announcements
