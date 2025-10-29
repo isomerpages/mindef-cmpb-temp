@@ -11,19 +11,21 @@ image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 <h4>By MRT</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Take <strong>Exit A </strong>from Cashew MRT station and cross the linkbridge
-for a quick 5-minute walk to CMPB (elevator access available).</p>
+<p>Take <strong>Exit A </strong>from <strong>Cashew MRT station</strong> and
+cross the linkbridge for a quick 5-minute walk to CMPB (elevator access
+available).</p>
 </li>
 </ul>
 <h4>By bus</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Take bus services <strong>67, 75, 170, 176, 178, 184, 961, 963, 970, 961M </strong>and
-alight at <strong>Bef Cashew Stn </strong>(bus stop ID: 43091).</p>
+alight at <strong>Bef Cashew Stn </strong>(bus stop ID: 43091). Walk into
+CMPB using the Rail Corridor gate (open from 7am to 6pm).</p>
 </li>
 <li>
 <p>Take bus service <strong>177 </strong>and alight at <strong>Bef Glendale Pk Condo </strong>(bus
-stop ID: 43159).</p>
+stop ID: 43159). Walk into CMPB from Hillview Link.</p>
 </li>
 </ul>
 <h4>By car and motorcycle</h4>
