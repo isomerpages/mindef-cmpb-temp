@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map_caa_29_Oct_2025.png">
-</div>
 <h4>By MRT</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -68,4 +65,7 @@ Enter from the carpark entrance after the roundabout.</p>
 </table>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map_caa_29_Oct_2025.png">
+</div>
 <p></p>
