@@ -25,7 +25,7 @@ CMPB using the Rail Corridor gate (open from 7am to 6pm).</p>
 </li>
 <li>
 <p>Take bus service <strong>177 </strong>and alight at <strong>Bef Glendale Pk Condo </strong>(bus
-stop ID: 43159). Walk into CMPB from Hillview Link.</p>
+stop ID: 43159). Walk into CMPB using the Hillview Link gate (open 24/7).</p>
 </li>
 </ul>
 <h4>By car and motorcycle</h4>
