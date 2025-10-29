@@ -6,7 +6,7 @@ description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map__caa_28_Apr_2025_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map_caa_29_Oct_2025.png">
 </div>
 <h4>By MRT</h4>
 <ul data-tight="true" class="tight">
@@ -32,12 +32,14 @@ stop ID: 43159).</p>
 <p>Access Hillview Link via Hillview Avenue.</p>
 </li>
 <li>
-<p>Handicap parking is available at L1 and B1.</p>
+<p><strong>Handicap parking</strong> is available at <strong>L1 </strong>and<strong> B1</strong>.</p>
 </li>
 <li>
-<p>Motorcycle parking is available at the lower basement of B1.</p>
+<p><strong>Motorcycle parking</strong> is available at the <strong>lower basement</strong>.
+Enter from the carpark entrance after the roundabout.</p>
 <p></p>
-<p><u>Parking rates at CMPB</u> (From 15 Oct 2025 onwards)</p>
+<p><u>Parking rates at CMPB</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,7 +66,4 @@ stop ID: 43159).</p>
 </table>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe style="border:0;" height="500" width="658" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d963.4123322079108!2d103.76412951200598!3d1.3669629109144752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11005a617fe1%3A0x9c5bb164f2a0869d!2sCmpb!5e1!3m2!1sen!2ssg!4v1759912014789!5m2!1sen!2ssg"></iframe>
-</div>
 <p></p>
