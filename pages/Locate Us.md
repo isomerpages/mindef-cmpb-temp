@@ -6,7 +6,7 @@ description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cmpb location map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map___caa_3_Nov_2025.png">
 </div>
 <h4>By MRT</h4>
 <ul data-tight="true" class="tight">
