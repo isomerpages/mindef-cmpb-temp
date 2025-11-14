@@ -32,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Parking charges to start from 15 Oct
-          date: 15 October 2025
-          announcement: Parking charges will apply at CMPB's carpark from 15 Oct 2025
-            onwards.
-          link_text: View parking rates
-          link_url: /locate-us
         - title: Free-to-play period extended for CMPB's Football Field
           date: 01 January 2026
           announcement: The free-to-play period on a first-come, first-served basis has
