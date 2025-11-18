@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAFRA@CMPB – Cafe4You</p>
+<p>Cafe (SAFRA@CMPB, Cafe4You)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #02-03/04</p>
@@ -38,9 +38,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Childcare Centre (Sunflower Preschool @ Hillview)
-<br><strong>[Opening Oct 2025]</strong>
-</p>
+<p>Childcare Centre (Sunflower Preschool @ Hillview)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Block 1, #01-01</p>
