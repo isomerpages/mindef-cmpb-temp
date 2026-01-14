@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 image: /images/CMPB_location_map__caa_7_Feb_2025_.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map___caa_7_Nov_2025___Final.png">
-</div>
+<a class="isomer-image-wrapper" href="https://www.google.com/maps/place/Central+Manpower+Base/@1.3670514,103.7638908,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1bd0af54732f:0x9c274decbab4e599!8m2!3d1.3670514!4d103.7638908!16s%2Fg%2F11c5bnkq01?entry=ttu&amp;g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CMPB_location_map___caa_7_Nov_2025___Final.png"></a>
 <h4>By MRT</h4>
 <ul data-tight="true" class="tight">
 <li>
