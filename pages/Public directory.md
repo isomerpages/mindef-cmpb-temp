@@ -83,7 +83,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football Field
-<br><strong>[Free-to-play period on a first-come,&nbsp;first-served basis has been extended to end-Jan 2026 More&nbsp;information on the booking system will be released in Feb 2026.]</strong>
+<br><strong>[Online booking system is now available starting 1 Feb 2026. Organised bookings can be made via ActiveSG from 8am to 4pm daily, with free-to-play access from 4pm to 6pm.]</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
