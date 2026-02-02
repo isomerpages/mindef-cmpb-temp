@@ -28,19 +28,15 @@ sections:
           description: For enquiries and help
           url: https://ask.gov.sg/mindef/questions/new
       variant: center
-  - infobar:
-      id: infobar
-      button: VIEW LOCATION ON GOOGLE MAPS
-      url: https://www.google.com/maps/place/Central+Manpower+Base/@1.3670514,103.7638908,17z/data=!3m1!4b1!4m6!3m5!1s0x31da1bd0af54732f:0x9c274decbab4e599!8m2!3d1.3670514!4d103.7638908!16s%2Fg%2F11c5bnkq01?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Free-to-play period extended for CMPB's Football Field
-          date: 01 January 2026
-          announcement: Free-to-play period on a first-come, first-served basis has been
-            extended to end-Jan 2026 More information on the booking system will
-            be released in Feb 2026.
+        - title: CMPB Football Field
+          date: 01 February 2026
+          announcement: Online booking system is now available starting 1 Feb 2026.
+            Organised bookings can be made via ActiveSG from 8am to 4pm daily,
+            with free-to-play access from 4pm to 6pm.
           link_text: ""
           link_url: ""
 ---
