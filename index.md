@@ -32,11 +32,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Free-to-play period extended for CMPB's Football Field
-          date: 01 January 2026
-          announcement: Free-to-play period on a first-come, first-served basis has been
-            extended to end-Jan 2026 More information on the booking system will
-            be released in Feb 2026.
+        - title: CMPB Football Field
+          date: 01 February 2026
+          announcement: Online booking system is now available starting 1 Feb 2026.
+            Organised bookings can be made via ActiveSG from 8am to 4pm daily,
+            with free-to-play access from 4pm to 6pm.
           link_text: ""
           link_url: ""
 ---
