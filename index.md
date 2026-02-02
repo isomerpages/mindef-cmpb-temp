@@ -39,4 +39,11 @@ sections:
             with free-to-play access from 4pm to 6pm.
           link_text: ""
           link_url: ""
+        - title: CMPB Football Field
+          date: 01 February 2026
+          announcement: Online booking system is now available starting 1 Feb 2026.
+            Organised bookings can be made via ActiveSG from 8am to 4pm daily,
+            with free-to-play access from 4pm to 6pm.
+          link_text: ""
+          link_url: ""
 ---
