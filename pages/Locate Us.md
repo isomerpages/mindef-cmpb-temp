@@ -38,6 +38,11 @@ stop ID: 43159).</p>
 <li>
 <p><strong>Motorcycle parking</strong> is available at the <strong>lower basement</strong>.
 Enter from the carpark entrance after the roundabout.</p>
+</li>
+<li>
+<p><strong>Electric Vehicle (EV) Charging </strong>is available at the CMPB
+carpark (6 normal-charging, and 2 fast-charging). Download the Charge+
+app from the Apple App Store or Google Play Store for more information.</p>
 <p></p>
 <p><u>Parking rates at CMPB</u>
 </p>
