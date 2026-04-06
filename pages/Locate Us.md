@@ -57,7 +57,7 @@ Enter from the carpark entrance after the roundabout.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$1.20 per hour (max $12 daily from 6am to 11pm)</p>
+<p>$0.02 per minute (max $12 daily from 6am to 11pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$0.65 per entry</p>
